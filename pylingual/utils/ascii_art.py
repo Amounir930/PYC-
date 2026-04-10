@@ -19,7 +19,12 @@ Yb,  88      `8b           88  ,dP                                              
                `Y8P"                                         `Y8P"                                 
 '''.strip("\n")
 
+try:
+    version = importlib.metadata.version("pylingual")
+except importlib.metadata.PackageNotFoundError:
+    version = "unknown"
+
 PYLINGUAL_SUBHEADER = f"""
 The University of Texas at Dallas, Syssec Lab
-{importlib.metadata.version("pylingual")} - https://pylingual.io
+{version} - https://pylingual.io
 """.rstrip()

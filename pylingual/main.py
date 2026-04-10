@@ -138,7 +138,10 @@ def main(files: list[str], out_dir: Path | None, config_file: Path | None, versi
                 logger.error(f"Could not auto-detect version from {all_pyc_files[0]}. Please specify -v.")
                 return
 
-        models = load_models(config_file if config_file else None, detected_version)
+        if config_file is None:
+            config_file = Path("pylingual/decompiler_config.yaml")
+        
+        models = load_models(config_file, detected_version)
         n = len(all_pyc_files)
 
         for i, pyc_path in enumerate(all_pyc_files):
