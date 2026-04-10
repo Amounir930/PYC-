@@ -1,0 +1,199 @@
+Collecting poetry
+  Obtaining dependency information for poetry from https://files.pythonhosted.org/packages/e8/5b/42155e6422cb2ad99236e5c3f296137ef8c8f9f96425ba9f773b899792c0/poetry-2.3.3-py3-none-any.whl.metadata
+  Downloading poetry-2.3.3-py3-none-any.whl.metadata (7.2 kB)
+Collecting build<2.0.0,>=1.2.1 (from poetry)
+  Obtaining dependency information for build<2.0.0,>=1.2.1 from https://files.pythonhosted.org/packages/4a/57/3b7d4dd193ade4641c865bc2b93aeeb71162e81fc348b8dad020215601ed/build-1.4.2-py3-none-any.whl.metadata
+  Downloading build-1.4.2-py3-none-any.whl.metadata (5.8 kB)
+Collecting cachecontrol[filecache]<0.15.0,>=0.14.0 (from poetry)
+  Obtaining dependency information for cachecontrol[filecache]<0.15.0,>=0.14.0 from https://files.pythonhosted.org/packages/ef/79/c45f2d53efe6ada1110cf6f9fca095e4ff47a0454444aefdde6ac4789179/cachecontrol-0.14.4-py3-none-any.whl.metadata
+  Downloading cachecontrol-0.14.4-py3-none-any.whl.metadata (3.1 kB)
+Collecting cleo<3.0.0,>=2.1.0 (from poetry)
+  Obtaining dependency information for cleo<3.0.0,>=2.1.0 from https://files.pythonhosted.org/packages/2d/f5/6bbead8b880620e5a99e0e4bb9e22e67cca16ff48d54105302a3e7821096/cleo-2.1.0-py3-none-any.whl.metadata
+  Downloading cleo-2.1.0-py3-none-any.whl.metadata (12 kB)
+Collecting dulwich<2,>=0.25.0 (from poetry)
+  Obtaining dependency information for dulwich<2,>=0.25.0 from https://files.pythonhosted.org/packages/b2/2e/eecefa69dad228daa4e81f75785fa0c55336034afee420bcf71dac5a3386/dulwich-1.1.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading dulwich-1.1.0-cp312-cp312-win_amd64.whl.metadata (6.0 kB)
+Collecting fastjsonschema<3.0.0,>=2.18.0 (from poetry)
+  Obtaining dependency information for fastjsonschema<3.0.0,>=2.18.0 from https://files.pythonhosted.org/packages/cb/a8/20d0723294217e47de6d9e2e40fd4a9d2f7c4b6ef974babd482a59743694/fastjsonschema-2.21.2-py3-none-any.whl.metadata
+  Downloading fastjsonschema-2.21.2-py3-none-any.whl.metadata (2.3 kB)
+Collecting findpython<0.8.0,>=0.6.2 (from poetry)
+  Obtaining dependency information for findpython<0.8.0,>=0.6.2 from https://files.pythonhosted.org/packages/48/f3/62a3181e88b3c69579f38aa6ddd9cfa6aea85d0c2f4004883ad803845c59/findpython-0.7.1-py3-none-any.whl.metadata
+  Downloading findpython-0.7.1-py3-none-any.whl.metadata (5.4 kB)
+Collecting installer<0.8.0,>=0.7.0 (from poetry)
+  Obtaining dependency information for installer<0.8.0,>=0.7.0 from https://files.pythonhosted.org/packages/e5/ca/1172b6638d52f2d6caa2dd262ec4c811ba59eee96d54a7701930726bce18/installer-0.7.0-py3-none-any.whl.metadata
+  Downloading installer-0.7.0-py3-none-any.whl.metadata (936 bytes)
+Collecting keyring<26.0.0,>=25.1.0 (from poetry)
+  Obtaining dependency information for keyring<26.0.0,>=25.1.0 from https://files.pythonhosted.org/packages/81/db/e655086b7f3a705df045bf0933bdd9c2f79bb3c97bfef1384598bb79a217/keyring-25.7.0-py3-none-any.whl.metadata
+  Downloading keyring-25.7.0-py3-none-any.whl.metadata (21 kB)
+Collecting packaging>=24.2 (from poetry)
+  Obtaining dependency information for packaging>=24.2 from https://files.pythonhosted.org/packages/b7/b9/c538f279a4e237a006a2c98387d081e9eb060d203d8ed34467cc0f0b9b53/packaging-26.0-py3-none-any.whl.metadata
+  Downloading packaging-26.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting pbs-installer[download,install]>=2025.6.10 (from poetry)
+  Obtaining dependency information for pbs-installer[download,install]>=2025.6.10 from https://files.pythonhosted.org/packages/43/56/8b834e28ff974248b79ff25eaadb0cdd206674e5f3f12e579fff82c3fb85/pbs_installer-2026.4.7-py3-none-any.whl.metadata
+  Downloading pbs_installer-2026.4.7-py3-none-any.whl.metadata (990 bytes)
+Collecting pkginfo<2.0,>=1.12 (from poetry)
+  Obtaining dependency information for pkginfo<2.0,>=1.12 from https://files.pythonhosted.org/packages/fa/3d/f4f2ba829efb54b6cd2d91349c7463316a9cc55a43fc980447416c88540f/pkginfo-1.12.1.2-py3-none-any.whl.metadata
+  Downloading pkginfo-1.12.1.2-py3-none-any.whl.metadata (13 kB)
+Collecting platformdirs<5,>=3.0.0 (from poetry)
+  Obtaining dependency information for platformdirs<5,>=3.0.0 from https://files.pythonhosted.org/packages/75/a6/a0a304dc33b49145b21f4808d763822111e67d1c3a32b524a1baf947b6e1/platformdirs-4.9.6-py3-none-any.whl.metadata
+  Downloading platformdirs-4.9.6-py3-none-any.whl.metadata (4.7 kB)
+Collecting poetry-core==2.3.2 (from poetry)
+  Obtaining dependency information for poetry-core==2.3.2 from https://files.pythonhosted.org/packages/0e/38/646023abf93e47c6808cbee82423324505ec075d7b90a22654765e1eade7/poetry_core-2.3.2-py3-none-any.whl.metadata
+  Downloading poetry_core-2.3.2-py3-none-any.whl.metadata (3.8 kB)
+Collecting pyproject-hooks<2.0.0,>=1.0.0 (from poetry)
+  Obtaining dependency information for pyproject-hooks<2.0.0,>=1.0.0 from https://files.pythonhosted.org/packages/bd/24/12818598c362d7f300f18e74db45963dbcb85150324092410c8b49405e42/pyproject_hooks-1.2.0-py3-none-any.whl.metadata
+  Downloading pyproject_hooks-1.2.0-py3-none-any.whl.metadata (1.3 kB)
+Collecting requests<3.0,>=2.26 (from poetry)
+  Obtaining dependency information for requests<3.0,>=2.26 from https://files.pythonhosted.org/packages/d7/8e/7540e8a2036f79a125c1d2ebadf69ed7901608859186c856fa0388ef4197/requests-2.33.1-py3-none-any.whl.metadata
+  Downloading requests-2.33.1-py3-none-any.whl.metadata (4.8 kB)
+Collecting requests-toolbelt<2.0.0,>=1.0.0 (from poetry)
+  Obtaining dependency information for requests-toolbelt<2.0.0,>=1.0.0 from https://files.pythonhosted.org/packages/3f/51/d4db610ef29373b879047326cbf6fa98b6c1969d6f6dc423279de2b1be2c/requests_toolbelt-1.0.0-py2.py3-none-any.whl.metadata
+  Downloading requests_toolbelt-1.0.0-py2.py3-none-any.whl.metadata (14 kB)
+Collecting shellingham<2.0,>=1.5 (from poetry)
+  Obtaining dependency information for shellingham<2.0,>=1.5 from https://files.pythonhosted.org/packages/e0/f9/0595336914c5619e5f28a1fb793285925a8cd4b432c9da0a987836c7f822/shellingham-1.5.4-py2.py3-none-any.whl.metadata
+  Downloading shellingham-1.5.4-py2.py3-none-any.whl.metadata (3.5 kB)
+Collecting tomlkit<1.0.0,>=0.11.4 (from poetry)
+  Obtaining dependency information for tomlkit<1.0.0,>=0.11.4 from https://files.pythonhosted.org/packages/b5/11/87d6d29fb5d237229d67973a6c9e06e048f01cf4994dee194ab0ea841814/tomlkit-0.14.0-py3-none-any.whl.metadata
+  Downloading tomlkit-0.14.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting trove-classifiers>=2022.5.19 (from poetry)
+  Obtaining dependency information for trove-classifiers>=2022.5.19 from https://files.pythonhosted.org/packages/bb/4a/2e5583e544bc437d5e8e54b47db87430df9031b29b48d17f26d129fa60c0/trove_classifiers-2026.1.14.14-py3-none-any.whl.metadata
+  Downloading trove_classifiers-2026.1.14.14-py3-none-any.whl.metadata (2.4 kB)
+Collecting virtualenv>=20.26.6 (from poetry)
+  Obtaining dependency information for virtualenv>=20.26.6 from https://files.pythonhosted.org/packages/20/0e/f083a76cb590e60dff3868779558eefefb8dfb7c9ed020babc7aa014ccbf/virtualenv-21.2.1-py3-none-any.whl.metadata
+  Downloading virtualenv-21.2.1-py3-none-any.whl.metadata (3.5 kB)
+Collecting colorama (from build<2.0.0,>=1.2.1->poetry)
+  Obtaining dependency information for colorama from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting msgpack<2.0.0,>=0.5.2 (from cachecontrol[filecache]<0.15.0,>=0.14.0->poetry)
+  Obtaining dependency information for msgpack<2.0.0,>=0.5.2 from https://files.pythonhosted.org/packages/8c/ec/d431eb7941fb55a31dd6ca3404d41fbb52d99172df2e7707754488390910/msgpack-1.1.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading msgpack-1.1.2-cp312-cp312-win_amd64.whl.metadata (8.4 kB)
+Collecting filelock>=3.8.0 (from cachecontrol[filecache]<0.15.0,>=0.14.0->poetry)
+  Obtaining dependency information for filelock>=3.8.0 from https://files.pythonhosted.org/packages/a4/a5/842ae8f0c08b61d6484b52f99a03510a3a72d23141942d216ebe81fefbce/filelock-3.25.2-py3-none-any.whl.metadata
+  Downloading filelock-3.25.2-py3-none-any.whl.metadata (2.0 kB)
+Collecting crashtest<0.5.0,>=0.4.1 (from cleo<3.0.0,>=2.1.0->poetry)
+  Obtaining dependency information for crashtest<0.5.0,>=0.4.1 from https://files.pythonhosted.org/packages/b0/5c/3ba7d12e7a79566f97b8f954400926d7b6eb33bcdccc1315a857f200f1f1/crashtest-0.4.1-py3-none-any.whl.metadata
+  Downloading crashtest-0.4.1-py3-none-any.whl.metadata (1.1 kB)
+Collecting rapidfuzz<4.0.0,>=3.0.0 (from cleo<3.0.0,>=2.1.0->poetry)
+  Obtaining dependency information for rapidfuzz<4.0.0,>=3.0.0 from https://files.pythonhosted.org/packages/85/0b/f65572c53de8a1c704bda707f63a447b67bdbe95d7cdc70d18885e191df5/rapidfuzz-3.14.5-cp312-cp312-win_amd64.whl.metadata
+  Downloading rapidfuzz-3.14.5-cp312-cp312-win_amd64.whl.metadata (12 kB)
+Collecting urllib3>=2.2.2 (from dulwich<2,>=0.25.0->poetry)
+  Obtaining dependency information for urllib3>=2.2.2 from https://files.pythonhosted.org/packages/39/08/aaaad47bc4e9dc8c725e68f9d04865dbcb2052843ff09c97b08904852d84/urllib3-2.6.3-py3-none-any.whl.metadata
+  Downloading urllib3-2.6.3-py3-none-any.whl.metadata (6.9 kB)
+Collecting pywin32-ctypes>=0.2.0 (from keyring<26.0.0,>=25.1.0->poetry)
+  Obtaining dependency information for pywin32-ctypes>=0.2.0 from https://files.pythonhosted.org/packages/de/3d/8161f7711c017e01ac9f008dfddd9410dff3674334c233bde66e7ba65bbf/pywin32_ctypes-0.2.3-py3-none-any.whl.metadata
+  Downloading pywin32_ctypes-0.2.3-py3-none-any.whl.metadata (3.9 kB)
+Collecting jaraco.classes (from keyring<26.0.0,>=25.1.0->poetry)
+  Obtaining dependency information for jaraco.classes from https://files.pythonhosted.org/packages/7f/66/b15ce62552d84bbfcec9a4873ab79d993a1dd4edb922cbfccae192bd5b5f/jaraco.classes-3.4.0-py3-none-any.whl.metadata
+  Downloading jaraco.classes-3.4.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting jaraco.functools (from keyring<26.0.0,>=25.1.0->poetry)
+  Obtaining dependency information for jaraco.functools from https://files.pythonhosted.org/packages/fd/c4/813bb09f0985cb21e959f21f2464169eca882656849adf727ac7bb7e1767/jaraco_functools-4.4.0-py3-none-any.whl.metadata
+  Downloading jaraco_functools-4.4.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting jaraco.context (from keyring<26.0.0,>=25.1.0->poetry)
+  Obtaining dependency information for jaraco.context from https://files.pythonhosted.org/packages/f2/58/bc8954bda5fcda97bd7c19be11b85f91973d67a706ed4a3aec33e7de22db/jaraco_context-6.1.2-py3-none-any.whl.metadata
+  Downloading jaraco_context-6.1.2-py3-none-any.whl.metadata (4.2 kB)
+Collecting httpx<1,>=0.27.0 (from pbs-installer[download,install]>=2025.6.10->poetry)
+  Obtaining dependency information for httpx<1,>=0.27.0 from https://files.pythonhosted.org/packages/2a/39/e50c7c3a983047577ee07d2a9e53faf5a69493943ec3f6a384bdc792deb2/httpx-0.28.1-py3-none-any.whl.metadata
+  Downloading httpx-0.28.1-py3-none-any.whl.metadata (7.1 kB)
+Collecting zstandard>=0.21.0 (from pbs-installer[download,install]>=2025.6.10->poetry)
+  Obtaining dependency information for zstandard>=0.21.0 from https://files.pythonhosted.org/packages/79/3b/fa54d9015f945330510cb5d0b0501e8253c127cca7ebe8ba46a965df18c5/zstandard-0.25.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading zstandard-0.25.0-cp312-cp312-win_amd64.whl.metadata (3.3 kB)
+Collecting charset_normalizer<4,>=2 (from requests<3.0,>=2.26->poetry)
+  Obtaining dependency information for charset_normalizer<4,>=2 from https://files.pythonhosted.org/packages/35/d9/0e7dffa06c5ab081f75b1b786f0aefc88365825dfcd0ac544bdb7b2b6853/charset_normalizer-3.4.7-cp312-cp312-win_amd64.whl.metadata
+  Downloading charset_normalizer-3.4.7-cp312-cp312-win_amd64.whl.metadata (41 kB)
+     -------------------------------------- 41.7/41.7 kB 500.0 kB/s eta 0:00:00
+Collecting idna<4,>=2.5 (from requests<3.0,>=2.26->poetry)
+  Obtaining dependency information for idna<4,>=2.5 from https://files.pythonhosted.org/packages/0e/61/66938bbb5fc52dbdf84594873d5b51fb1f7c7794e9c0f5bd885f30bc507b/idna-3.11-py3-none-any.whl.metadata
+  Downloading idna-3.11-py3-none-any.whl.metadata (8.4 kB)
+Collecting certifi>=2023.5.7 (from requests<3.0,>=2.26->poetry)
+  Obtaining dependency information for certifi>=2023.5.7 from https://files.pythonhosted.org/packages/9a/3c/c17fb3ca2d9c3acff52e30b309f538586f9f5b9c9cf454f3845fc9af4881/certifi-2026.2.25-py3-none-any.whl.metadata
+  Downloading certifi-2026.2.25-py3-none-any.whl.metadata (2.5 kB)
+Collecting distlib<1,>=0.3.7 (from virtualenv>=20.26.6->poetry)
+  Obtaining dependency information for distlib<1,>=0.3.7 from https://files.pythonhosted.org/packages/33/6b/e0547afaf41bf2c42e52430072fa5658766e3d65bd4b03a563d1b6336f57/distlib-0.4.0-py2.py3-none-any.whl.metadata
+  Downloading distlib-0.4.0-py2.py3-none-any.whl.metadata (5.2 kB)
+Collecting python-discovery>=1 (from virtualenv>=20.26.6->poetry)
+  Obtaining dependency information for python-discovery>=1 from https://files.pythonhosted.org/packages/d8/db/795879cc3ddfe338599bddea6388cc5100b088db0a4caf6e6c1af1c27e04/python_discovery-1.2.2-py3-none-any.whl.metadata
+  Downloading python_discovery-1.2.2-py3-none-any.whl.metadata (5.4 kB)
+Collecting anyio (from httpx<1,>=0.27.0->pbs-installer[download,install]>=2025.6.10->poetry)
+  Obtaining dependency information for anyio from https://files.pythonhosted.org/packages/da/42/e921fccf5015463e32a3cf6ee7f980a6ed0f395ceeaa45060b61d86486c2/anyio-4.13.0-py3-none-any.whl.metadata
+  Downloading anyio-4.13.0-py3-none-any.whl.metadata (4.5 kB)
+Collecting httpcore==1.* (from httpx<1,>=0.27.0->pbs-installer[download,install]>=2025.6.10->poetry)
+  Obtaining dependency information for httpcore==1.* from https://files.pythonhosted.org/packages/7e/f5/f66802a942d491edb555dd61e3a9961140fd64c90bce1eafd741609d334d/httpcore-1.0.9-py3-none-any.whl.metadata
+  Downloading httpcore-1.0.9-py3-none-any.whl.metadata (21 kB)
+Collecting h11>=0.16 (from httpcore==1.*->httpx<1,>=0.27.0->pbs-installer[download,install]>=2025.6.10->poetry)
+  Obtaining dependency information for h11>=0.16 from https://files.pythonhosted.org/packages/04/4b/29cac41a4d98d144bf5f6d33995617b185d14b22401f75ca86f384e87ff1/h11-0.16.0-py3-none-any.whl.metadata
+  Downloading h11-0.16.0-py3-none-any.whl.metadata (8.3 kB)
+Collecting more-itertools (from jaraco.classes->keyring<26.0.0,>=25.1.0->poetry)
+  Obtaining dependency information for more-itertools from https://files.pythonhosted.org/packages/cb/98/6af411189d9413534c3eb691182bff1f5c6d44ed2f93f2edfe52a1bbceb8/more_itertools-11.0.2-py3-none-any.whl.metadata
+  Downloading more_itertools-11.0.2-py3-none-any.whl.metadata (41 kB)
+     -------------------------------------- 41.4/41.4 kB 663.5 kB/s eta 0:00:00
+Collecting typing_extensions>=4.5 (from anyio->httpx<1,>=0.27.0->pbs-installer[download,install]>=2025.6.10->poetry)
+  Obtaining dependency information for typing_extensions>=4.5 from https://files.pythonhosted.org/packages/18/67/36e9267722cc04a6b9f15c7f3441c2363321a3ea07da7ae0c0707beb2a9c/typing_extensions-4.15.0-py3-none-any.whl.metadata
+  Downloading typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+Downloading poetry-2.3.3-py3-none-any.whl (288 kB)
+   -------------------------------------- 288.7/288.7 kB 812.0 kB/s eta 0:00:00
+Downloading poetry_core-2.3.2-py3-none-any.whl (340 kB)
+   ---------------------------------------- 340.9/340.9 kB 1.2 MB/s eta 0:00:00
+Downloading build-1.4.2-py3-none-any.whl (24 kB)
+Downloading cleo-2.1.0-py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.7/78.7 kB 547.8 kB/s eta 0:00:00
+Downloading dulwich-1.1.0-cp312-cp312-win_amd64.whl (1.0 MB)
+   ---------------------------------------- 1.0/1.0 MB 461.4 kB/s eta 0:00:00
+Downloading fastjsonschema-2.21.2-py3-none-any.whl (24 kB)
+Downloading findpython-0.7.1-py3-none-any.whl (21 kB)
+Downloading installer-0.7.0-py3-none-any.whl (453 kB)
+   ---------------------------------------- 453.8/453.8 kB 1.1 MB/s eta 0:00:00
+Downloading keyring-25.7.0-py3-none-any.whl (39 kB)
+Downloading packaging-26.0-py3-none-any.whl (74 kB)
+   ---------------------------------------- 74.4/74.4 kB 1.0 MB/s eta 0:00:00
+Downloading pkginfo-1.12.1.2-py3-none-any.whl (32 kB)
+Downloading platformdirs-4.9.6-py3-none-any.whl (21 kB)
+Downloading pyproject_hooks-1.2.0-py3-none-any.whl (10 kB)
+Downloading requests-2.33.1-py3-none-any.whl (64 kB)
+   ---------------------------------------- 64.9/64.9 kB 437.7 kB/s eta 0:00:00
+Downloading requests_toolbelt-1.0.0-py2.py3-none-any.whl (54 kB)
+   ---------------------------------------- 54.5/54.5 kB 941.3 kB/s eta 0:00:00
+Downloading shellingham-1.5.4-py2.py3-none-any.whl (9.8 kB)
+Downloading tomlkit-0.14.0-py3-none-any.whl (39 kB)
+Downloading trove_classifiers-2026.1.14.14-py3-none-any.whl (14 kB)
+Downloading virtualenv-21.2.1-py3-none-any.whl (5.8 MB)
+   ---------------------------------------- 5.8/5.8 MB 1.0 MB/s eta 0:00:00
+Downloading certifi-2026.2.25-py3-none-any.whl (153 kB)
+   -------------------------------------- 153.7/153.7 kB 573.8 kB/s eta 0:00:00
+Downloading charset_normalizer-3.4.7-cp312-cp312-win_amd64.whl (159 kB)
+   -------------------------------------- 159.3/159.3 kB 194.6 kB/s eta 0:00:00
+Downloading crashtest-0.4.1-py3-none-any.whl (7.6 kB)
+Downloading distlib-0.4.0-py2.py3-none-any.whl (469 kB)
+   -------------------------------------- 469.0/469.0 kB 349.4 kB/s eta 0:00:00
+Downloading filelock-3.25.2-py3-none-any.whl (26 kB)
+Downloading httpx-0.28.1-py3-none-any.whl (73 kB)
+   ---------------------------------------- 73.5/73.5 kB 311.7 kB/s eta 0:00:00
+Downloading httpcore-1.0.9-py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.8/78.8 kB 489.6 kB/s eta 0:00:00
+Downloading idna-3.11-py3-none-any.whl (71 kB)
+   ---------------------------------------- 71.0/71.0 kB 299.3 kB/s eta 0:00:00
+Downloading msgpack-1.1.2-cp312-cp312-win_amd64.whl (72 kB)
+   ---------------------------------------- 72.7/72.7 kB 443.0 kB/s eta 0:00:00
+Downloading python_discovery-1.2.2-py3-none-any.whl (31 kB)
+Downloading pywin32_ctypes-0.2.3-py3-none-any.whl (30 kB)
+Downloading rapidfuzz-3.14.5-cp312-cp312-win_amd64.whl (1.5 MB)
+   ---------------------------------------- 1.5/1.5 MB 208.8 kB/s eta 0:00:00
+Downloading urllib3-2.6.3-py3-none-any.whl (131 kB)
+   -------------------------------------- 131.6/131.6 kB 970.8 kB/s eta 0:00:00
+Downloading zstandard-0.25.0-cp312-cp312-win_amd64.whl (506 kB)
+   -------------------------------------- 506.3/506.3 kB 835.1 kB/s eta 0:00:00
+Downloading cachecontrol-0.14.4-py3-none-any.whl (22 kB)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading jaraco.classes-3.4.0-py3-none-any.whl (6.8 kB)
+Downloading jaraco_context-6.1.2-py3-none-any.whl (7.9 kB)
+Downloading jaraco_functools-4.4.0-py3-none-any.whl (10 kB)
+Downloading pbs_installer-2026.4.7-py3-none-any.whl (73 kB)
+   ---------------------------------------- 73.7/73.7 kB 1.4 MB/s eta 0:00:00
+Downloading anyio-4.13.0-py3-none-any.whl (114 kB)
+   ---------------------------------------- 114.4/114.4 kB 1.7 MB/s eta 0:00:00
+Downloading more_itertools-11.0.2-py3-none-any.whl (71 kB)
+   ---------------------------------------- 71.9/71.9 kB 791.0 kB/s eta 0:00:00
+Downloading h11-0.16.0-py3-none-any.whl (37 kB)
+Downloading typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+   ---------------------------------------- 44.6/44.6 kB 1.1 MB/s eta 0:00:00
+Installing collected packages: trove-classifiers, fastjsonschema, distlib, zstandard, urllib3, typing_extensions, tomlkit, shellingham, rapidfuzz, pywin32-ctypes, pyproject-hooks, poetry-core, platformdirs, pkginfo, pbs-installer, packaging, msgpack, more-itertools, jaraco.context, installer, idna, h11, filelock, crashtest, colorama, charset_normalizer, certifi, requests, python-discovery, jaraco.functools, jaraco.classes, httpcore, findpython, dulwich, cleo, build, anyio, virtualenv, requests-toolbelt, keyring, httpx, cachecontrol, poetry
+Successfully installed anyio-4.13.0 build-1.4.2 cachecontrol-0.14.4 certifi-2026.2.25 charset_normalizer-3.4.7 cleo-2.1.0 colorama-0.4.6 crashtest-0.4.1 distlib-0.4.0 dulwich-1.1.0 fastjsonschema-2.21.2 filelock-3.25.2 findpython-0.7.1 h11-0.16.0 httpcore-1.0.9 httpx-0.28.1 idna-3.11 installer-0.7.0 jaraco.classes-3.4.0 jaraco.context-6.1.2 jaraco.functools-4.4.0 keyring-25.7.0 more-itertools-11.0.2 msgpack-1.1.2 packaging-26.0 pbs-installer-2026.4.7 pkginfo-1.12.1.2 platformdirs-4.9.6 poetry-2.3.3 poetry-core-2.3.2 pyproject-hooks-1.2.0 python-discovery-1.2.2 pywin32-ctypes-0.2.3 rapidfuzz-3.14.5 requests-2.33.1 requests-toolbelt-1.0.0 shellingham-1.5.4 tomlkit-0.14.0 trove-classifiers-2026.1.14.14 typing_extensions-4.15.0 urllib3-2.6.3 virtualenv-21.2.1 zstandard-0.25.0
